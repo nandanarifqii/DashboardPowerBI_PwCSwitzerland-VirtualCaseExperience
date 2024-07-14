@@ -2,6 +2,7 @@
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. 
 Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
 <br>
+<br>
 ![image](https://github.com/user-attachments/assets/b20e5c8e-256d-41d0-95e8-2ab7a6f2726b)
 Possible KPIs include (to get you started, but not limited to):
 - Overall customer satisfaction
@@ -10,7 +11,7 @@ Possible KPIs include (to get you started, but not limited to):
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
   
-### Dashboard Call Center Trend
+#### Dashboard Call Center Trend
 ![Call Center Dashboard](https://github.com/user-attachments/assets/2769f8a1-6eec-4825-a414-fca039d75acd)
 
 ## Customer Retention
