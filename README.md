@@ -46,9 +46,9 @@ and backgrounds to succeed in an increasingly complex and heterogeneous world. T
 We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 
 Hint: Calculating the following measures could help to define proper KPIs:
-- # of men
-- # of women
-- # of leavers
+- of men
+- of women
+- of leavers
 - % employees promoted (FY21)
 - % of women promoted
 - % of hires men
