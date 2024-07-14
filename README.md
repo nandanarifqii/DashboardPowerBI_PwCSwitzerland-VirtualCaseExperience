@@ -1,4 +1,4 @@
-## Call Center Trends
+## 1. Call Center Trends
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. 
 Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
 <br>
@@ -14,7 +14,7 @@ Possible KPIs include (to get you started, but not limited to):
 #### Dashboard Call Center Trend
 ![Call Center Dashboard](https://github.com/user-attachments/assets/2769f8a1-6eec-4825-a414-fca039d75acd)
 
-## Customer Retention
+## 2. Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
 - Customers in the telecom industry are hard-earned: we don’t want to lose them
@@ -29,7 +29,7 @@ Task :
 - Create a dashboard for the retention manager reflecting the KPIs. 
 - Give explaining your findings, and include suggestions as to what needs to be changed
   
-### Dashboard Customer Risk Analysis
+#### Dashboard Customer Risk Analysis
 ![Customer Risk Analysis Dashboard](https://github.com/user-attachments/assets/7de75e62-8e7c-43cf-befe-33af14919121)
 
 <br>
@@ -39,9 +39,26 @@ Explanation Findings
 - Company should come with differentiated offering for all customer type, like 1st time customer/high value customer/loyal customers etc
 - Company should come with more attractive longer term subscription plans rather than focusing on monthly plans.
 
-## Diversity Inclusion
+## 3. Diversity Inclusion
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, 
+but they’re not seeing any progress. They’re reaching out to us for help.
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents 
+and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. 
+We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 
-### Dashboard Diversity & Inclusion
+Hint: Calculating the following measures could help to define proper KPIs:
+# of men
+# of women
+# of leavers
+% employees promoted (FY21)
+% of women promoted
+% of hires men
+% of hires women
+% turnover 
+Average performance rating: men
+Average Performance rating: women
+
+#### Dashboard Diversity & Inclusion
 ![Diversity   Inclusion Dashboard](https://github.com/user-attachments/assets/2b691f1d-c7ac-44b6-b732-0536cde016fa)
 
 <details>
