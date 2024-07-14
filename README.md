@@ -32,8 +32,7 @@ Task :
 #### Dashboard Customer Risk Analysis
 ![Customer Risk Analysis Dashboard](https://github.com/user-attachments/assets/7de75e62-8e7c-43cf-befe-33af14919121)
 
-<br>
-Explanation Findings
+#### Explanation Findings
 - Two Measure reasons our Competitors wins are better devices and better offer, so Build strong technology & Infrastructure to offer fast, quality digital experience.
 - Customers subscripted to Online Security and Premium Tech Support are far less likely to chum compare to those didn't. So suggest give away free 3 Months Security and Tech Support subscription to existing customers, as this could help Customers Stay.
 - Company should come with differentiated offering for all customer type, like 1st time customer/high value customer/loyal customers etc
