@@ -2,7 +2,7 @@
 
 ## 1. Call Center Trends
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. 
-Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
+Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you :
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/b20e5c8e-256d-41d0-95e8-2ab7a6f2726b)
